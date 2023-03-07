@@ -1,2 +1,2 @@
-# c64-studies
-tiny programs for commodore 64 i wrote to learn to code for it
+# who needs this?
+the same chumps as me who want to program for c64 and maybe want some examples
